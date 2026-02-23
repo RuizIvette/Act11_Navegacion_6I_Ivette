@@ -8,7 +8,7 @@ class PaginaDos extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Segunda página", style: TextStyle(color: Color.fromARGB(255, 207, 195, 195))),
+        title: const Text("Segunda página Ivette", style: TextStyle(color: Color.fromARGB(255, 207, 195, 195))),
         backgroundColor: Colors.purple,
         centerTitle: true,
       ),

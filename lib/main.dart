@@ -14,7 +14,7 @@ class MiAppNavegacion extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Ejemplo Navegación',
+      title: 'Ejemplo Navegación Ivette',
       // Definimos la ruta inicial
       initialRoute: '/',
       // Definimos el mapa de rutas nombradas

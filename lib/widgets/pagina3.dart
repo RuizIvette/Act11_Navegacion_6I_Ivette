@@ -33,7 +33,7 @@ class PaginaTres extends StatelessWidget {
               ),
               child: const Center(
                 child: Text(
-                  "Final",
+                  "Ivette Ruiz 6I",
                   style: TextStyle(color: Colors.purple, fontWeight: FontWeight.bold),
                 ),
               ),

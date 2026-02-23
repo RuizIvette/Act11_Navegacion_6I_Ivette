@@ -8,7 +8,7 @@ class PaginaUno extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Inicio", style: TextStyle(color: Colors.white)),
+        title: const Text("Inicio Ivette", style: TextStyle(color: Colors.white)),
         backgroundColor: Colors.purple,
         centerTitle: true,
       ),
